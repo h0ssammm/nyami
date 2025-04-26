@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "nyami: River mapping and analysis software"
+version: XXXX.XX.XX
+message: "Please acknowledge the use of this software in any publications by citing:"
+authors:
+- family-names: Schneck
+  given-names: Cora Y.
+  orchid: 'https://orcid.org/0009-0009-1415-5170'
+- family-names: Schneck
+  given-names: Una G.
+  orchid: 'https://orcid.org/0000-0003-0048-5143'
+repository-code:: "https://github.com/cyschneck/nyami"
+url: "https://github.com/cyschneck/nyami"

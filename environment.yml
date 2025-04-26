@@ -1,0 +1,6 @@
+name: nyami
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.14  # minimum support 3.10, maximum support 3.13
+  - pre-commit  # dev: pre-commit hooks
