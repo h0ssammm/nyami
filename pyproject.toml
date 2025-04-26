@@ -1,58 +1,62 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+
+requires = [ "setuptools" ]
+
 [project]
 name = "nyami"
 version = "0.0.0"
-authors = [
-  { name="Cora Schneck", email="cyschneck@gmail.com" },
-  { name="Una Schneck", email="ugschneck@gmail.com" }
-]
-
 description = "River mapping and analysis in Python"
 readme = "README.md"
-license = {file = "LICENSE"}
+keywords = [
+  "fluvial",
+  "geomorphology",
+  "geophysics",
+  "hydrology",
+  "limnology",
+  "python",
+  "river-bank",
+  "rivers",
+]
+
+license = { file = "LICENSE" }
+authors = [
+  { name = "Cora Schneck", email = "cyschneck@gmail.com" },
+  { name = "Una Schneck", email = "ugschneck@gmail.com" },
+]
+
 requires-python = ">=3.10"
 
 classifiers = [
-    "Development Status :: 4 - Beta", "Intended Audience :: Developers",
-    "Intended Audience :: Education",
-    "Intended Audience :: Science/Research",
-    "License :: OSI Approved :: MIT License",
-    "Programming Language :: Python",
-    "Programming Language :: Python :: 3",
-    "Programming Language :: Python :: 3.10",
-    "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: 3.12",
-    "Programming Language :: Python :: 3.13",
-    "Intended Audience :: Education",
-    "Intended Audience :: Science/Research",
-    "Topic :: Scientific/Engineering :: Physics",
-    "Topic :: Scientific/Engineering :: Hydrology",
-    "Topic :: Scientific/Engineering :: Visualization"
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Education",
+  "Intended Audience :: Science/Research",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3 :: Only",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Topic :: Scientific/Engineering :: Hydrology",
+  "Topic :: Scientific/Engineering :: Physics",
+  "Topic :: Scientific/Engineering :: Visualization",
 ]
-
-keywords = [
-        "geophysics", "python", "rivers", "river-bank", "limnology", "hydrology", "fluvial", "geomorphology"
-    ]
 
 dependencies = [
 ]
 
-[project.optional-dependencies]
-dev = [
-    "pre-commit"
+optional-dependencies.dev = [
+  "pre-commit",
 ]
-
-[project.urls]
-Repository = "https://github.com/cyschneck/nyami"
-Issues = "https://github.com/cyschneck/nyami/issues"
-
-[build-system]
-requires = ["setuptools"]
-build-backend = "setuptools.build_meta"
+urls.Issues = "https://github.com/cyschneck/nyami/issues"
+urls.Repository = "https://github.com/cyschneck/nyami"
 
 [tool.setuptools]
 include-package-data = true
 
 [tool.setuptools.packages.find]
-where = ["."]
-include = ["nyami"]
-exclude = ["nyami/pytests*"]
+where = [ "." ]
+include = [ "nyami" ]
+exclude = [ "nyami/pytests*" ]
